@@ -24,7 +24,7 @@ const VideoSection = () => {
               </video>
             </div>
             <p className="text-center mt-4 text-gray-600 italic">
-              Nuestros momentos más especiales ❤️
+              Nuestros momentos más especiales en video ❤️
             </p>
           </CardContent>
         </Card>

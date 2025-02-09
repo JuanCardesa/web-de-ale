@@ -5,14 +5,14 @@ const TimelineEvent = () => {
   const events = [
     { id: 1, title: "Carnavales", date: "Febrero 2024" },
     { id: 2, title: "San Valentín", date: "14 Febrero 2024" },
-    { id: 3, title: "Cumple de Juan", date: "Marzo 2024" },
+    { id: 3, title: "Cumple de Juan", date: "19 de Marzo 2024" },
     { id: 4, title: "Feria", date: "Abril 2024" },
-    { id: 5, title: "Viaje a San Lucar", date: "Mayo 2024" },
+    { id: 5, title: "Viaje a San Lucar", date: "29 de Mayo 2024" },
     { id: 6, title: "Islantilla", date: "Junio 2024" },
     { id: 7, title: "Aguadulce", date: "Julio 2024" },
-    { id: 8, title: "Cumple de Ale", date: "Agosto 2024" },
+    { id: 8, title: "Cumple de Ale", date: "31 de Agosto 2024" },
     { id: 9, title: "Vuelta a Sevilla", date: "Septiembre 2024" },
-    { id: 10, title: "Evento Piquersa", date: "Noviembre 2024" },
+    { id: 10, title: "Evento Piquersa", date: "15 de Noviembre 2024" },
     { id: 11, title: "Navidades", date: "Diciembre 2024" },
     { id: 12, title: "Primer Año Juntos", date: "Febrero 2025" }
   ];

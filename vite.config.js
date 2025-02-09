@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: "/web-de-ale/", // Nombre de tu repositorio en GitHub
+  base: "/web-de-ale/", // 👈 Usa el nombre exacto de tu repo en GitHub
 })
